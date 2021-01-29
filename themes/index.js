@@ -263,6 +263,18 @@ const themes = {
     text_color: "d9c8a9",
     bg_color: "402b23",
   },
+  notion_light_nord: {
+    title_color: "5e81ac",
+    icon_color: "81a1c1",
+    text_color: "d9c8a9",
+    bg_color: "ffffff",
+  },
+  notion_dark_nord: {
+    title_color: "5e81ac",
+    icon_color: "81a1c1",
+    text_color: "ebebeb",
+    bg_color: "2f3437",
+  }
 };
 
 module.exports = themes;

@@ -266,7 +266,7 @@ const themes = {
   notion_light_nord: {
     title_color: "5e81ac",
     icon_color: "81a1c1",
-    text_color: "d9c8a9",
+    text_color: "37352f",
     bg_color: "ffffff",
   },
   notion_dark_nord: {
